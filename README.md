@@ -7,18 +7,18 @@ More about [UP Board](www.up-community.org)
 
 ## Usage
 --------------------------------------------
-'''bash
+```bash
 ~$ git clone https://github.com/alexburcea2877/megaio-up.git
 ~$ cd megaio-up/
 ~/megaio-up$ sudo make install
-'''
+```
 
 Now you can access all the functions of the Mega-IO board through the command "megaio"
 If you clone the repository any update can be made with the following commands:
  
- '''bash
+ ```bash
  ~$ cd megaio-up/
  ~/megaio-up$ git pull
  ~/megaio-up$ sudo make clean
  ~/megaio-up$ sudo make install
- '''
+ ```
