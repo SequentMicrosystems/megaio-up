@@ -1,0 +1,7 @@
+Revision history and todo list for megaio command om upBoard
+01.12.2017 - No use wiringPI (fully tested)
+	   - Known issues: LED CARD -  wrong LED order
+			   Missing IRQ example (not yet develop).
+Version 2.1.2:
+1) Unify with raspbery version
+2) Solve LED CARD bug
