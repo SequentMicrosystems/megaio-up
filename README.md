@@ -1,10 +1,9 @@
 # megaio-up
 --------------------------------------------
-This is the command to control Mega-IO Expansion Card 
-https://www.sequentmicrosystems.com/megaio.html on UP Board computer.
+This is the command to control  [Raspberry Pi Mega-IO Expansion Card](https://www.sequentmicrosystems.com/megaio.html) on UP Board computer.
 
 All code is tested on UP Board in ubilinux.
-More about UP Board:  www.up-community.org
+More about [UP Board](www.up-community.org)
 
 ## Usage
 --------------------------------------------
