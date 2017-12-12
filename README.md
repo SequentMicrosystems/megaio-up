@@ -3,7 +3,7 @@
 This is the command to control Mega-IO Expansion Card 
 https://www.sequentmicrosystems.com/megaio.html on UP Board computer.
 
-All code are tested on UP Board in ubilinux.
+All code is tested on UP Board in ubilinux.
 More about UP Board:  www.up-community.org
 
 ## Usage
