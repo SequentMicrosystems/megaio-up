@@ -5,3 +5,17 @@ Revision history and todo list for megaio command om upBoard
 Version 2.1.2:
 1) Unify with raspbery version
 2) Solve LED CARD bug
+
+Version 2.2.0: 
+1) Split function in two .c files: comm.c (platform specific communication functions); megaio.c (platfom independent MegaIO control functions) This is made for easy mantain UP-Board repository 
+2) Rewrite some functions in order to support new communications routines
+3) Eliminate some "magic numbers"
+
+Version 2.2.1:
+1) Add "-connector" option to display MegaIO connector pinout 
+2) Add " test-opto-oc <optoCh> <ocCh>" option for easy testing a opto/opencollector pair 
+3) Add " test-io <ch1> <ch2>" option for easy test two I/O pair
+4) Add " test-dac-adc <adcCh>" option for easy test a adc channel
+
+Version 2.2.2:
+1) Minor code reorganizations 
