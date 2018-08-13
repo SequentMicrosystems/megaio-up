@@ -8,7 +8,7 @@ More about [UP Board](www.up-community.org)
 ## Usage
 --------------------------------------------
 ```bash
-~$ git clone https://github.com/alexburcea2877/megaio-up.git
+~$ git clone https://github.com/SequentMicrosystems/megaio-up.git
 ~$ cd megaio-up/
 ~/megaio-up$ sudo make install
 ```
